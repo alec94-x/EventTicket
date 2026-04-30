@@ -119,7 +119,6 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 [2] https://lab.stellar.org/r/testnet/contract/CBO4HL5TXD3O5LYNMTA5MZUGD7VFJMHJR7DYP4JTAVDT6VSGWJXJTKDV
 
 
-## Future Score
+## Future Scope
 The development is still in progress
 
-**Stellar Notes DApp** - Securing Your Thoughts on the Blockchain
