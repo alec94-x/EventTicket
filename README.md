@@ -10,10 +10,10 @@ StellarTix is a decentralized event ticketing platform built on the Stellar that
 
 Each ticket is:
 
-Issued on-chain and bound to a user’s wallet
-Impossible to duplicate or forge
-Instantly verifiable at venue entry
-Single-use to prevent fraud and reuse
+- Issued on-chain and bound to a user’s wallet
+- Impossible to duplicate or forge
+- Instantly verifiable at venue entry
+- Single-use to prevent fraud and reuse
 
 It also supports smart contract–enforced resale rules, allowing organizers to prevent scalping and ensure fair pricing.
 
@@ -25,10 +25,10 @@ StellarTix envisions a future where all event tickets are transparent, fraud-pro
 
 Built on the Stellar, it aims to:
 
-Eliminate counterfeit tickets completely
-End unfair scalping through programmable pricing rules
-Give fans true ownership of their tickets
-Enable instant, secure event entry worldwide
+- Eliminate counterfeit tickets completely
+- End unfair scalping through programmable pricing rules
+- Give fans true ownership of their tickets
+- Enable instant, secure event entry worldwide
 
 Beyond ticketing, StellarTix evolves into a full event ecosystem layer, powering loyalty rewards, fan engagement, and programmable digital event assets—creating a fair and trusted global event economy.
 
