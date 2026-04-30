@@ -4,6 +4,10 @@
 
 ---
 
+## Project Description
+
+## Project Vision
+
 ## 🧩 The Problem
 
 A fan in Manila buys a concert ticket on a third-party resale site only to arrive at the venue and discover the ticket is counterfeit — or has already been used by someone else. Current ticketing systems rely on centralized databases that are opaque, easily spoofed, and routinely abused by scalpers who mark up prices 3–5×.
