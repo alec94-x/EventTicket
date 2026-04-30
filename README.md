@@ -4,6 +4,32 @@
 
 ---
 
+## Project Description
+Event Ticket is a decentralized ticketing system built on the Stellar using Soroban smart contracts that replaces vulnerable centralized ticketing platforms with a transparent, tamper-proof on-chain system.
+
+Each ticket is represented as a unique cryptographic record (SHA-256 hash + wallet address) stored on-chain. This ensures every ticket is authentic, traceable, and impossible to duplicate or reuse. At event entry, a gate scanner performs a real-time on-chain verification, instantly confirming validity before allowing access.
+
+The system also introduces anti-scalping enforcement, allowing organizers to track and control ticket transfers while optionally capping resale activity. Buyers who purchase through official channels can be rewarded with small XLM incentives, encouraging fair distribution and reducing reliance on secondary markets.
+
+By leveraging Stellar’s fast finality and low transaction fees, Event Ticket enables scalable, real-time verification suitable for concerts, festivals, and high-volume live events.
+
+
+## Project Vision
+Event Ticket envisions a future where every event ticket is verifiable, fraud-resistant, and fairly distributed by default.
+
+Built on the Stellar, the platform aims to eliminate counterfeit tickets, dismantle exploitative scalping systems, and restore trust between fans and event organizers.
+
+Its long-term vision is to create a fair global event economy, where:
+
+- Every ticket is provably authentic before purchase
+- Scalpers are unable to manipulate resale markets
+- Fans have true ownership and control over their tickets
+- Organizers maintain full transparency over ticket distribution
+
+Beyond ticketing, Event Ticket evolves into a broader on-chain event infrastructure layer, enabling loyalty rewards, fan engagement systems, and programmable event assets that strengthen the connection between creators and audiences while ensuring fairness and transparency at scale.
+
+ ---
+ 
 ## Problem
 
 A Filipino concert-goer pays ₱4,000 for a ticket on a resale site only to discover it's counterfeit at the gate. No refund, no entry. Event organisers lose revenue to scalpers who buy in bulk and resell at 3× face value. Existing solutions rely on centralised databases that are opaque, hackable, and slow to verify.
