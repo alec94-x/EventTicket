@@ -1,4 +1,4 @@
-# 🎟️ StellarTix
+# 🎟️ Event Tickets
 
 > On-chain event ticketing with built-in anti-fraud, anti-scalping, and instant ownership transfer — powered by Stellar Soroban.
 
