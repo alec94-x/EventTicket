@@ -13,6 +13,7 @@ The system also introduces anti-scalping enforcement, allowing organizers to tra
 
 By leveraging Stellar’s fast finality and low transaction fees, Event Ticket enables scalable, real-time verification suitable for concerts, festivals, and high-volume live events.
 
+---
 
 ## Project Vision
 Event Ticket envisions a future where every event ticket is verifiable, fraud-resistant, and fairly distributed by default.
@@ -29,7 +30,7 @@ Its long-term vision is to create a fair global event economy, where:
 Beyond ticketing, Event Ticket evolves into a broader on-chain event infrastructure layer, enabling loyalty rewards, fan engagement systems, and programmable event assets that strengthen the connection between creators and audiences while ensuring fairness and transparency at scale.
 
  ---
- 
+
 ## Problem
 
 A Filipino concert-goer pays ₱4,000 for a ticket on a resale site only to discover it's counterfeit at the gate. No refund, no entry. Event organisers lose revenue to scalpers who buy in bulk and resell at 3× face value. Existing solutions rely on centralised databases that are opaque, hackable, and slow to verify.
