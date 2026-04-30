@@ -1,4 +1,4 @@
-# 🎟️ Event Tickets
+# 🎟️ StellarTix
 
 > On-chain event ticketing with built-in anti-fraud, anti-scalping, and instant ownership transfer — powered by Stellar Soroban.
 
@@ -6,7 +6,31 @@
 
 ## Project Description
 
+StellarTix is a decentralized event ticketing platform built on the Stellar that turns tickets into secure, verifiable digital assets.
+
+Each ticket is:
+
+Issued on-chain and bound to a user’s wallet
+Impossible to duplicate or forge
+Instantly verifiable at venue entry
+Single-use to prevent fraud and reuse
+
+It also supports smart contract–enforced resale rules, allowing organizers to prevent scalping and ensure fair pricing.
+
+Powered by Stellar’s fast and low-cost transactions, StellarTix enables real-time ticket validation for concerts, sports, and large-scale events.
+
 ## Project Vision
+
+StellarTix envisions a future where all event tickets are transparent, fraud-proof, and fully user-owned by default.
+
+Built on the Stellar, it aims to:
+
+Eliminate counterfeit tickets completely
+End unfair scalping through programmable pricing rules
+Give fans true ownership of their tickets
+Enable instant, secure event entry worldwide
+
+Beyond ticketing, StellarTix evolves into a full event ecosystem layer, powering loyalty rewards, fan engagement, and programmable digital event assets—creating a fair and trusted global event economy.
 
 ## 🧩 The Problem
 
